@@ -1,5 +1,5 @@
 # CHTabletControls
-Implementation of Tablet Controls for Clone Hero
+Implementation of Mouse/Tablet Controls for Clone Hero
 
 
 Run either in a Python IDE or with "python controller.py" in cmd, with python added to your system PATH variable.
